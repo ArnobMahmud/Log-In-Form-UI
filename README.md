@@ -1,6 +1,22 @@
-# Log-In-Form-UI
+![emulator](https://user-images.githubusercontent.com/60808266/87140113-c99a5480-c2c2-11ea-8418-e6d6b214056c.jpg)
 
-User friendly Log in Form.
-User can easily create new account and log in and if in any case user forgets the password he can be able to reset the password.
-Language Used : Kotlin, Swift, Dart.
-Useable Devices : Android & iOS
+
+Package:
+mvn deploy -Dregistry=https://maven.pkg.github.com/ArnobMahmud -Dtoken=GH_TOKEN
+
+# log_in_UI
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
