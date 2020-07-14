@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'Interface/signinOne.dart';
 
-// ignore: unused_import
 import 'Interface/signinTwo.dart';
 
 class Home extends StatelessWidget {
